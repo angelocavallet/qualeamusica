@@ -1,0 +1,72 @@
+
+w	php:S1192X"[Define a constant instead of duplicating this literal "streaming_metrics_interval" 4 times.(ö©§Æ8ÏŠúì.
+m	php:S1192]"LDefine a constant instead of duplicating this literal "force_nonce" 3 times.(Ã’”üÿÿÿÿ8ÏŠúì.
+gphp:S101"LRename class "tmhOAuth" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(úšˆè8ÏŠúì.
+h	php:S1192ñ"KDefine a constant instead of duplicating this literal "last_bytes" 3 times.(ú»ÌÕ8ÏŠúì.
+i	php:S1192)"HDefine a constant instead of duplicating this literal "method" 11 times.(ÇÂ–Òıÿÿÿÿ8ÏŠúì.
+Qphp:S121Õ"0Add curly braces around the nested statement(s).(—Ã½Šÿÿÿÿÿ8ÏŠúì.
+Kphp:S121ë"0Add curly braces around the nested statement(s).(øÉ¶U8ÏŠúì.
+Lphp:S121±"0Add curly braces around the nested statement(s).(ØèÔ‹8ÏŠúì.
+k	php:S1192h"JDefine a constant instead of duplicating this literal "with_user" 8 times.(¹–¨ùşÿÿÿÿ8ÏŠúì.
+i	php:S1192V"MDefine a constant instead of duplicating this literal "is_streaming" 3 times.(˜“ª’8ÏŠúì.
+M	php:S1172Ş"+Remove the unused function parameter "$ch".(Ëä¢¥ûÿÿÿÿ8ÏŠúì.
+Qphp:S121¢"0Add curly braces around the nested statement(s).(Ä›Ä´øÿÿÿÿ8ÏŠúì.
+Lphp:S121ã"0Add curly braces around the nested statement(s).(æŸ–à8ÏŠúì.
+Lphp:S121â"0Add curly braces around the nested statement(s).(´ÆıÓ8ÏŠúì.
+c	php:S1192ğ"FDefine a constant instead of duplicating this literal "bytes" 4 times.(«ûÈÓ8ÏŠúì.
+xphp:S115"]Rename this constant "__DIR__" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ûÛØ¸8ÏŠúì.
+d	php:S1192A"HDefine a constant instead of duplicating this literal "use_ssl" 3 times.(ã¾¡Ä8ÏŠúì.
+Lphp:S121é"0Add curly braces around the nested statement(s).(î¦Ñ½8ÏŠúì.
+q	php:S3776È"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÑÔÇÒ8ÏŠúì.
+o	php:S1192W"NDefine a constant instead of duplicating this literal "streaming_eol" 3 times.(£¨ñçøÿÿÿÿ8ÏŠúì.
+Pphp:S121x"0Add curly braces around the nested statement(s).(¸Ù¦¯ÿÿÿÿÿ8ÏŠúì.
+c	php:S11921"GDefine a constant instead of duplicating this literal "bearer" 3 times.(ıÃ¼©8ÏŠúì.
+Qphp:S121ê"0Add curly braces around the nested statement(s).(ò×‘şÿÿÿÿÿ8ÏŠúì.
+Qphp:S121ö"0Add curly braces around the nested statement(s).(˜èä·şÿÿÿÿ8ÏŠúì.
+Qphp:S121´"0Add curly braces around the nested statement(s).(·‡Àşÿÿÿÿ8ÏŠúì.
+j	php:S1192ï"NDefine a constant instead of duplicating this literal "last_messages" 3 times.(÷Êàf8ÏŠúì.
+9	php:S2010œ"Replace "or" with "||".(¤§‚øÿÿÿÿ8ÏŠúì.
+h	php:S1192F"LDefine a constant instead of duplicating this literal "curl_cainfo" 3 times.(˜’¥°8ÏŠúì.
+h	php:S1192."GDefine a constant instead of duplicating this literal "secret" 4 times.(ô¹¢Ìøÿÿÿÿ8ÏŠúì.
+Qphp:S121ë"0Add curly braces around the nested statement(s).(Í÷”€ùÿÿÿÿ8ÏŠúì.
+Kphp:S121l"0Add curly braces around the nested statement(s).(È²—³8ÏŠúì.
+Lphp:S121å"0Add curly braces around the nested statement(s).(ÛªÒ´8ÏŠúì.
+h	php:S1192’"KDefine a constant instead of duplicating this literal "postfields" 3 times.(£œ…É8ÏŠúì.
+x	php:S11925"WDefine a constant instead of duplicating this literal "oauth_signature_method" 3 times.(ùĞ €øÿÿÿÿ8ÏŠúì.
+q	php:S1142Ş"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Ëä¢¥ûÿÿÿÿ8ÏŠúì.
+p	php:S1192Ø"NDefine a constant instead of duplicating this literal "oauth1_params" 8 times.(Òö®¤üÿÿÿÿ8ÏŠúì.
+p	php:S1192ê"SDefine a constant instead of duplicating this literal "streaming_callback" 3 times.(•¨‡8ÏŠúì.
+u	php:S1192="TDefine a constant instead of duplicating this literal "curl_ssl_verifyhost" 3 times.(êÛÑçùÿÿÿÿ8ÏŠúì.
+Kphp:S121‚"0Add curly braces around the nested statement(s).(©•Ï8ÏŠúì.
+v	php:S3776„"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(°Ş›¾şÿÿÿÿ8ÏŠúì.
+l	php:S1192L"PDefine a constant instead of duplicating this literal "curl_sslversion" 3 times.(İíûı8ÏŠúì.
+Kphp:S121®"0Add curly braces around the nested statement(s).(¡ò´L8ÏŠúì.
+n	php:S1117É"LRename "$response" which has the same name as the field declared at line 18.(×²àŞıÿÿÿÿ8ÏŠúì.
+d	php:S1192g"IDefine a constant instead of duplicating this literal "headers" 14 times.(ıÜú-8ÏŠúì.
+F	php:S1125—")Remove the literal "false" boolean value.(€Ûí¶8ÏŠúì.
+f	php:S1192i"JDefine a constant instead of duplicating this literal "multipart" 9 times.(Ò™ø8ÏŠúì.
+Lphp:S121Õ"0Add curly braces around the nested statement(s).(¯Õîİ8ÏŠúì.
+Qphp:S121Å"0Add curly braces around the nested statement(s).(è®å†ùÿÿÿÿ8ÏŠúì.
+3	php:S2010"Replace "or" with "||".(ûÛØ¸8ÏŠúì.
+Qphp:S121ı"0Add curly braces around the nested statement(s).(Ô¬¦ùÿÿÿÿ8ÏŠúì.
+g	php:S1192-"FDefine a constant instead of duplicating this literal "token" 4 times.(ê‡ôÎûÿÿÿÿ8ÏŠúì.
+s	php:S1192R"RDefine a constant instead of duplicating this literal "curl_proxyuserpwd" 3 times.(®Ûß’ıÿÿÿÿ8ÏŠúì.
+Lphp:S121«"0Add curly braces around the nested statement(s).(µ©ùÀ8ÏŠúì.
+g	php:S1192'"KDefine a constant instead of duplicating this literal "user_agent" 4 times.(åï§–8ÏŠúì.
+j	php:S11924"NDefine a constant instead of duplicating this literal "oauth_version" 3 times.(åìõ¯8ÏŠúì.
+l	php:S1192,"PDefine a constant instead of duplicating this literal "consumer_secret" 3 times.(ªõá·8ÏŠúì.
+h	php:S1192f"GDefine a constant instead of duplicating this literal "params" 5 times.(¬¶ÈÍıÿÿÿÿ8ÏŠúì.
+q	php:S1192^"PDefine a constant instead of duplicating this literal "force_timestamp" 3 times.(Ä®İÅùÿÿÿÿ8ÏŠúì.
+K	php:S1125š")Remove the literal "false" boolean value.(œŞ°ªüÿÿÿÿ8ÏŠúì.
+€	php:S1448"dClass "tmhOAuth" has 34 methods, which is greater than 20 authorized. Split it into smaller classes.(úšˆè8ÏŠúì.
+q	php:S1192í"ODefine a constant instead of duplicating this literal "interval_start" 3 times.(ãÂ·ûÿÿÿÿ8ÏŠúì.
+n	php:S1192•"LDefine a constant instead of duplicating this literal "querystring" 3 times.(«¾êÌıÿÿÿÿ8ÏŠúì.
+Qphp:S121²"0Add curly braces around the nested statement(s).(ó»Ñùÿÿÿÿ8ÏŠúì.
+u	php:S1192?"TDefine a constant instead of duplicating this literal "curl_ssl_verifypeer" 3 times.(– ¹Óüÿÿÿÿ8ÏŠúì.
+H	php:S1172¿"+Remove the unused function parameter "$ch".(†•¦ğ8ÏŠúì.
+h	php:S1192G"LDefine a constant instead of duplicating this literal "curl_capath" 3 times.(•×á8ÏŠúì.
+Lphp:S121"0Add curly braces around the nested statement(s).(«¢ÏÔ8ÏŠúì.
+k	php:S1192î"IDefine a constant instead of duplicating this literal "messages" 4 times.(âÚ›¸ıÿÿÿÿ8ÏŠúì.
+Qphp:S121ø"0Add curly braces around the nested statement(s).(…‰ã­øÿÿÿÿ8ÏŠúì.
+Lphp:S121¹"0Add curly braces around the nested statement(s).(¬Ä©Ê8ÏŠúì.
+n	php:S1192+"MDefine a constant instead of duplicating this literal "consumer_key" 3 times.(Ë¢‹ºşÿÿÿÿ8ÏŠúì.

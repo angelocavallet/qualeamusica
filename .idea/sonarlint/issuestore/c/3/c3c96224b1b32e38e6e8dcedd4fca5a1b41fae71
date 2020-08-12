@@ -1,0 +1,7 @@
+
+:php:S125-"Remove this commented out code.(Íâ–¯8¡°ôòž.
+e	php:S1192"IDefine a constant instead of duplicating this literal "response" 3 times.(…è²´8¡°ôòž.
+l	php:S1142P"PReduce the number of returns of this function 51, down to the maximum allowed 3.(Ÿü›ê8¡°ôòž.
+Ÿphp:S138P"ƒThis function "getComentarioSilvio" has 153 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ÿü›ê8¡°ôòž.
+p	php:S3776P"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(Ÿü›ê8¡°ôòž.
+i	php:S1192„"GDefine a constant instead of duplicating this literal "id_str" 3 times.(×áŠ…ÿÿÿÿÿ8··Õûž.
