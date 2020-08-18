@@ -1,0 +1,15 @@
+{
+  "name": "qualeamusica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ângelo Kusmann Cavalet",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.5.2",
+    "twit": "^2.2.11"
+  }
+}
